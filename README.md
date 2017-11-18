@@ -5,3 +5,5 @@ This is a collection of all material icons from Google. The Sketch file contains
 [Twitter](https://twitter.com/szilvaizsolt) ･ [Dribbble](https://dribbble.com/zsoltszilvai)
 
 ![](https://i.imgur.com/VBzSa64.png)
+
+![](https://i.imgur.com/HraBB7k.gif)
