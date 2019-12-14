@@ -1,0 +1,19 @@
+{"activeSheet":"Sheet1","sheets":[{"name":"Sheet1","rows":[],"columns":[],"selection":"I40:I40","activeCell":"I40:I40","frozenRows":0,"frozenColumns":0,"showGridLines":true,"gridLinesColor":null,"mergedCells":[],"hyperlinks":[],"defaultCellStyle":{"fontFamily":"Arial","fontSize":"12"},"drawings":[]}],"names":[],"columnWidth":64,"rowHeight":20,"rows":75,"columns":26}
+
+[FileSafe:21f44a69-c1f0-4f33-b6f0-7c99b12efaf1:standardnotes_2fa_key.txt]
+
+
+For now, I'll probably move this back to the top of the notes list. Moving this here would change the behaviour of the search (from local filter to global filter) which might not be favored by some users.
+
+
+Also, was ist der Mindestpreis, den du bereit wärst, den Telefontypen zu verkaufen?
+
+
+Also, was ist der Mindestpreis, den du bereit wärst, das Telefon zu verkaufen?
+
+Ich verstehe schon. Also, was ist der Mindestpreis, den du das Telefon verkaufen würdest?
+
+
+
+
+
